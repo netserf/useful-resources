@@ -11,6 +11,10 @@ to kickstart your visual understanding of git. This includes tutorials on git
 branch, merge, rebase, reset, revert, cherry-pick and working with remotes like
 [github](https://github.com).
 
+## Docker
+[Docker Curriculum](https://docker-curriculum.com/) - A quick tutorial for getting
+started with Docker. Contains details on running containers, managing images and
+building your own custom images.
 
 ## Kids Learning to Code
 
